@@ -1,0 +1,79 @@
+body{
+   background-image: url(bg.jpg);
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px blue;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 60px;
+    padding: 40px;
+    border-radius: 50px;
+}
+
+.ft1{
+    border: 3px solid rgb(94, 92, 92);
+    margin: auto;
+    padding: 5px;
+    background-color: rgb(243, 208, 164);
+    border-radius: 30px;
+    
+}
+.ft2{
+    border: 3px solid black;
+    margin: auto;
+    background-color: rgb(190, 220, 247);
+     border-radius: 30px;
+    padding: 8px;
+    margin: 8px;
+}
+
+
+.ft4{
+     border: 3px solid black;
+    margin: auto;
+    background-color: rgb(245, 245, 153);
+     border-radius: 30px;
+    padding: 8px;
+     
+}
+.fa-solid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 50px;
+    font-size: 50px;
+    position: relative;
+}
+h3{
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: solid;
+  text-decoration: double;
+}
+p{
+    color: rgb(10, 0, 0);
+    font-weight: 40px;
+}
+.fa-pizza-slice{
+    color: orangered;
+}
+.fa-gamepad{
+    color: black;
+}
+.fa-umbrella-beach{
+    color: blue;
+}
+article{
+    font-family: fantasy;
+    border: 1px solid grey;
+    width: 50%;
+    margin: auto;
+    box-sizing: content-box;
+    border-radius: 15px;
+   
+} 
